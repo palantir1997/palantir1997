@@ -14,7 +14,6 @@ Graduating February 2026
 
 - **Vision Transformers (ViT)** - Exploring transformer architectures for computer vision tasks
 - **Self-Supervised Learning (SSL)** - Learning robust representations without labeled data
-- **Current Focus**: MAE (Masked Autoencoder) + MiDaS integration for depth estimation and 3D understanding
 
 ---
 
