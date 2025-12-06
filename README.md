@@ -3,10 +3,10 @@
 ## Education
 
 **M.S./Ph.D. in Artificial Intelligence (Advanced Department)**  
-Starting February 2026
+Starting March 2026
 
 **B.S. in Software Convergence**  
-February 2026
+Graduating February 2026
 
 ---
 
@@ -68,7 +68,7 @@ Deep learning model for real-time rock-paper-scissors gesture recognition with h
 
 ---
 
-### [Customer Grade Prediction](https://github.com/your-username/customer-prediction)
+### [Customer Grade Prediction](https://github.com/ByteMaster-Y/customer-grade-prediction)
 Integrated labeled and unlabeled data using pseudo-labeling and clustering approaches. Achieved 0.92 accuracy in customer grade prediction.
 
 **Tech Stack**: Python, Scikit-learn, RandomForest, KMeans
@@ -92,7 +92,7 @@ Handwritten math equation recognition system using CNN. Built responsive web int
 ---
 
 ### [SafeAlert - Disaster Safety App](https://github.com/ByteMaster-Y/SafeAlert-Disaster-Safety-App)
-**Multiple Awards** | 📄 **Published in KAICT Conference Spring 2024**
+**Multiple Awards** | **Published in KAICT Conference Spring 2024**
 
 Real-time disaster information app with emergency message analysis, location-based shelter recommendation, and multilingual UI using BERT and GNN.
 
@@ -121,4 +121,4 @@ Real-time disaster information app with emergency message analysis, location-bas
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [palantir1997](https://github.com/palantir1997)
