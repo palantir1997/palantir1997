@@ -111,7 +111,8 @@ Real-time disaster information app with emergency message analysis, location-bas
 - Advanced Data Analytics Semi-Professional (ADSP) - KDATA (Sep 2024)
 - Industrial Engineer Information Processing - HRDK (Jun 2024)
 - SQL Developer (SQLD) - KDATA (Apr 2024)
-
+- Microsoft Access Specialist (Office 2016) – Score 933 (Jul 2024)
+- ITQ Excel A-Level – KPC (Dec 2023)
 ---
 
 ## Contact
