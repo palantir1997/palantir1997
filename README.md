@@ -27,11 +27,6 @@ AI Research Lab | Starting December 2025
 
 ## Technical Skills
 
-## Technical Skills
-
-**Programming Languages**  
-## Technical Skills
-
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
