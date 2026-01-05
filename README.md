@@ -2,9 +2,6 @@
 
 ## Education
 
-**M.S./Ph.D. in Artificial Intelligence (Advanced Department)**  
-Starting March 2026
-
 **B.S. in Software Convergence**  
 Graduating February 2026
 
@@ -20,7 +17,7 @@ Graduating February 2026
 ## Current Position
 
 **Graduate Research Assistant**  
-AI Research Lab | Starting December 2025
+AI Research Lab | December 2025
 
 ---
 
