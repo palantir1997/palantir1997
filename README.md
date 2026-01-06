@@ -11,7 +11,7 @@ Graduating February 2026
 
 - **Vision Transformers (ViT)** - Exploring transformer architectures for computer vision tasks
 - **Self-Supervised Learning (SSL)** - Learning robust representations without labeled data
-- - **Multimodal Learning**: Integrating and processing information from multiple modalities (e.g., Image, Text, Audio) to build comprehensive AI systems.
+- **Multimodal Learning**: Integrating and processing information from multiple modalities (e.g., Image, Text, Audio) to build comprehensive AI systems.
 - **AI Security & Ethical Hacking**: Investigating vulnerabilities in AI models and exploring adversarial attacks/defense mechanisms to build secure, resilient systems.
 
 ---
