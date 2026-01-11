@@ -1,4 +1,4 @@
-# Hello! I'm palantir1997
+# AI Security Researcher | Deep Learning Engineer | Open Source Contributor
 
 ## Education
 
@@ -9,10 +9,21 @@ Graduating February 2026
 
 ## Research Interests
 
-- **Vision Transformers (ViT)** - Exploring transformer architectures for computer vision tasks
-- **Self-Supervised Learning (SSL)** - Learning robust representations without labeled data
-- **Multimodal Learning**: Integrating and processing information from multiple modalities (e.g., Image, Text, Audio) to build comprehensive AI systems.
-- **AI Security & Ethical Hacking**: Investigating vulnerabilities in AI models and exploring adversarial attacks/defense mechanisms to build secure, resilient systems.
+Vision Transformers (ViT):
+  - Exploring transformer architectures for computer vision tasks
+  - Improving efficiency and scalability of vision models
+
+Self-Supervised Learning (SSL):
+  - Learning robust representations without labeled data
+  - Contrastive learning and pretext task design
+
+Multimodal Learning:
+  - Integrating Image, Text, and Audio modalities
+  - Building comprehensive cross-modal AI systems
+
+AI Security & Ethical Hacking:
+  - Investigating vulnerabilities in AI models
+  - Adversarial attacks and defense mechanisms
 
 ---
 
