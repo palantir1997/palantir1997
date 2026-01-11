@@ -1,9 +1,16 @@
 ## AI Engineer | Cybersecurity Enthusiast | Full-Stack Developer
 
+About Me
+Leveraging AI and Deep Learning expertise to build secure, intelligent systems
+
+I'm an AI Engineer transitioning into Cybersecurity, combining my deep learning background with security principles to tackle modern threats. With hands-on experience in computer vision, NLP, and full-stack development, I've led multiple award-winning projects and now focus on applying AI techniques to security challenges.
+
 ## Education
 
-**B.S. in Software Convergence**  
-Graduating February 2026
+**B.S. in Software Convergence | Graduated February 2026**
+
+**Cybersecurity Training Program | Starting March 2026**
+
 
 ---
 
