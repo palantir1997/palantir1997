@@ -157,8 +157,7 @@ Real-time disaster information app with emergency message analysis, location-bas
 ## Contact
 
 - Email: palantir1997@gmail.com
-- Tech Blog: palantirops.tistory.com
-
+- Blog: [palantirops.tistory.com](https://palantirops.tistory.com/)
 
 ---
 
