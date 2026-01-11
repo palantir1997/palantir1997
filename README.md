@@ -1,4 +1,4 @@
-# AI Security Researcher | Deep Learning Engineer | Open Source Contributor
+## AI Engineer | Cybersecurity Enthusiast | Full-Stack Developer
 
 ## Education
 
@@ -25,6 +25,10 @@ AI Security & Ethical Hacking:
   - Investigating vulnerabilities in AI models
   - Adversarial attacks and defense mechanisms
 
+Full-Stack Development:
+  - Building end-to-end AI applications
+  - IoT and embedded systems integration
+  - Real-time data processing and analytics
 ---
 
 ## Current Position
