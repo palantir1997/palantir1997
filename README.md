@@ -162,4 +162,4 @@ Real-time disaster information app with emergency message analysis, location-bas
 ---
 
 ⭐️ From [palantir1997](https://github.com/palantir1997)
-⭐️ Tech Blog: [palantir1997](palantirops.tistory.com)
+⭐️ Tech Blog: (palantirops.tistory.com)
