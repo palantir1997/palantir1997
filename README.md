@@ -38,7 +38,7 @@ Full-Stack Development:
   - Real-time data processing and analytics
 ---
 
-## Current Position
+## Experience
 
 **Graduate Research Assistant**  
 AI Research Lab | December 2025
