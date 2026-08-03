@@ -206,8 +206,9 @@ Semi-supervised learning model for customer grade prediction. Integrated labeled
 - Prompt Engineering Level 2 — KAIT (Jun 2025)
 - Linux Master Level 2 — KAIT (Jan 2025)
 - Advanced Data Analytics Semi-Professional (ADSP) — KDATA (Sep 2024)
-- SQL Developer (SQLD) — KDATA (Apr 2024)
 - Microsoft Access Specialist (Office 2016) — 933/1000 (Jul 2024)
+- Information Processing Technician (정보처리산업기사) — HRDK (Jun 2024) 
+- SQL Developer (SQLD) — KDATA (Apr 2024)
 - ITQ Excel A-Level — KPC (Dec 2023)
 
 ---
@@ -224,32 +225,13 @@ Semi-supervised learning model for customer grade prediction. Integrated labeled
 
 ---
 
-## 🏆 Awards & Recognition
-
-- **AI Innovation Award** — Gyeonggi Women's University (Feb 2025)
-- **Capstone Design Grand Prize** — HandMath Solver (2024)
-- **Student Budget Proposal Award - Gold** — Gyeonggi Women's University (Dec 2024)
-- **Capstone Design Excellence Award** — Gyeonggi Women's University (Nov 2024)
-- **AI Application Contest Award** — Gyeonggi Women's University (Nov 2024)
-- **Gyeonggi Creative Economy Innovation Center Award** (Nov 2023)
-- **Software Convergence Creative Work Exhibition - Top Prize** (Nov 2023)
-- **Incheon Gyeyang District Mayor's Award** (Oct 2023)
-
----
-
-## 🌐 Language Proficiency
-
-- **TOEIC**: 785/990 (Valid until Mar 2027)
-- **TEPS**: 255/600 (Valid until Aug 2027)
-
----
 
 ## 📧 Contact & Links
 
 - **Email**: palantir1997@gmail.com
 - **GitHub**: [github.com/palantir1997](https://github.com/palantir1997)
 - **Blog**: [palantirops.tistory.com](https://palantirops.tistory.com/)
-- **Phone**: 010-4000-5782
+
 
 ---
 
