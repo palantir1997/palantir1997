@@ -1,249 +1,263 @@
-## AI Security Engineer | Cybersecurity Specialist | Full-Stack Developer
+## 🔐 Cybersecurity & Infrastructure Engineer | Full-Stack Developer
 
 **About Me**
 
-Building secure, intelligent systems through AI and infrastructure expertise.
+Passionate about building secure systems through hands-on cybersecurity and infrastructure engineering.
 
-I'm an AI Security Engineer specializing in cybersecurity and infrastructure management. Combining deep learning expertise with hands-on security practices, I design and implement secure system architectures, conduct penetration testing, and build resilient monitoring infrastructure. I've led multiple cybersecurity projects including security architecture design, malware analysis, network infrastructure setup, and competitive CTF platforms. Passionate about applying AI techniques to security challenges while ensuring operational excellence through DevOps practices.
+Currently completing a comprehensive Cybersecurity Bootcamp with focus on security architecture, penetration testing, and infrastructure management. Bringing together security expertise and full-stack development skills to design and implement secure systems. Strong foundation in both offensive and defensive security practices, with proven ability to lead technical teams and deliver complex projects.
 
 ---
 
-## Education
-
-**Upcoming (September 2026)**
-- Statistics and Data Science Courses (Junior Year)
-- Advanced security and data analysis specialization
+## 📚 Education
 
 **Cybersecurity Bootcamp (Guardian Program) | March - August 2026**
-- Focus: Security Infrastructure, Network Architecture, Penetration Testing, Malware Analysis
-- Completed Core Security Curriculum
+- Core Focus: Security Infrastructure, Network Architecture, Penetration Testing, Malware Analysis
+- Bootcamp Track: Security Specialist
 
-**B.S. in Software Convergence | Graduated February 2026**
-- Emphasis: AI/ML
+**B.S. in Software Convergence | Graduated February 2026**  
+GPA: 4.25/4.5
+
+**Pursuing (Starting September 2026)**
+- Statistics and Data Science Courses (Junior Year)
+
 ---
 
-## Research Interests
+## 🎯 Research & Learning Interests
 
 **Security & Infrastructure**
-- Cybersecurity Architecture & Network Design
-- Penetration Testing and Vulnerability Analysis
+- Network Security & Architecture Design
+- Penetration Testing & Vulnerability Assessment
 - Malware Analysis (Static & Dynamic)
-- Infrastructure as Code (IaC) and Cloud Security
-- Monitoring Systems (SIEM, Centralized Logging)
+- SIEM & Centralized Logging Systems
+- Incident Response
 
 **AI & Machine Learning**
-- Adversarial Attack & Defense Mechanisms
-- AI Model Security and Robustness
-- Vision Transformers (ViT) for Security Applications
-- Self-Supervised Learning for Threat Detection
+- AI Model Robustness & Security
+- Computer Vision & NLP Applications
+- Deep Learning for Security Analysis
 
 **Full-Stack Development**
 - Secure Web Application Architecture
-- Backend System Design and API Security
-- Real-time Data Processing and Analytics
+- API Security & Backend Design
+- Real-time Data Processing
 
 ---
 
-## Experience
+## 💼 Experience
 
-**Cybersecurity Bootcamp Lead (Team Lead) | March 2026 - August 2026**
-- Led multiple security architecture and infrastructure projects
-- Specialized in system design, penetration testing, and security infrastructure
-- Managed team coordination and technical problem-solving
+**Cybersecurity Bootcamp - Team Lead | March - August 2026**
+- Led multiple security projects from architecture design to implementation
+- Specialized in system architecture, penetration testing, and infrastructure setup
+- Managed team coordination, technical problem-solving, and project delivery
 
-**Graduate Research Assistant | AI Research Lab (December 2025)**
-
----
-
-## Technical Skills
-
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Security & Infrastructure**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Cisco ASAv](https://img.shields.io/badge/Cisco%20ASAv-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![GNS3](https://img.shields.io/badge/GNS3-1BA0D7?style=flat)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
-**AI/ML Frameworks**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**Tools & Monitoring**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-E63946?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Graduate Research Assistant | AI Research Lab | December 2025**
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills Overview
 
-### [PacketCinema_Security](https://github.com/palantir1997/PacketCinema_Security)
-**Security Architecture & Penetration Testing Project**
+| Category | Tools & Technologies | Proficiency | Notes |
+|----------|-------------------|-------------|-------|
+| **Programming** | Python, Java, JavaScript, C++, Bash | ⭐⭐⭐ | Primary: Python & JavaScript |
+| **Security** | Kali Linux, Splunk, Wireshark, Burp Suite | ⭐⭐ | Hands-on penetration testing |
+| **Network** | GNS3, Cisco ASAv, Network Topology Design | ⭐⭐ | Network architecture design |
+| **Monitoring** | Grafana, Zabbix, Log Analysis | ⭐⭐ | Dashboard & alerting setup |
+| **Backend** | Node.js, Flask, RESTful APIs, Spring | ⭐⭐⭐ | Full API development |
+| **Frontend** | React, JavaScript, HTML/CSS | ⭐⭐ | UI/Dashboard development |
+| **Database** | MySQL, NoSQL, Schema Design | ⭐⭐ | Query optimization |
+| **DevOps** | Linux (Ubuntu/Rocky), Bash Scripting | ⭐⭐⭐ | Server management & automation |
+| **Web Security** | PHP, Apache, OWASP Principles | ⭐⭐ | Web application hardening |
+| **ML Frameworks** | PyTorch, TensorFlow, Keras, Hugging Face | ⭐⭐ | Model fine-tuning & inference |
+| **Tools** | Git, GNS3, Wireshark, OpenCV | ⭐⭐ | Development & analysis |
 
-Comprehensive security enhancement for web-based cinema system. Led team in designing and implementing multi-layered security architecture with intrusion detection and prevention systems.
+---
 
-**Key Contributions:**
-- Security System Architecture Design: Designed end-to-end security infrastructure
-- Penetration Testing: Conducted thorough vulnerability assessment and exploitation
-- Malware Analysis: Performed static and dynamic malware analysis
-- Security Tools Configuration: Deployed and configured Suricata IDS and ModSecurity WAF
-- Documentation: Created detailed security reports and presentation materials
+## 📌 Featured Projects
 
-**Tech Stack**: Python, Suricata, ModSecurity, Wireshark, Linux
+### 🔴 [PacketCinema_Security](https://github.com/palantir1997/PacketCinema_Security)
+**Security Architecture & Penetration Testing**
+
+Comprehensive security enhancement for cinema web system. Designed and implemented multi-layered security infrastructure with threat detection and analysis.
+
+**Responsibilities:**
+- Designed end-to-end security architecture
+- Conducted penetration testing & vulnerability assessment
+- Performed static and dynamic malware analysis
+- Deployed Suricata IDS for network monitoring
+- Configured ModSecurity WAF for web application protection
+- Created detailed security assessment reports
+
+**Tech Stack**: Python | Kali Linux | Splunk | Suricata | ModSecurity | Wireshark
 
 **Role**: Team Lead
 
 ---
 
-### [Ssaessak-Ban](https://github.com/palantir1997/Ssaessak-Ban)
-**Healthcare Security Management System (Full-Stack)**
+### 🏥 [Ssaessak-Ban](https://github.com/palantir1997/Ssaessak-Ban)
+**Healthcare Security Management Platform (Full-Stack)**
 
-Full-stack development of a comprehensive security monitoring platform designed for hospital network environments. Built complete system architecture including network topology design using GNS3.
+Full-stack development of security monitoring platform for hospital network environment. Comprehensive system design including network topology, backend APIs, and monitoring dashboard.
 
-**Key Contributions:**
-- Architecture Design: Designed full-stack system (backend, frontend, database, network)
-- Network Infrastructure: Designed hospital network topology using GNS3 (routers, switches, ASAv)
-- Backend Development: Implemented server logic and RESTful APIs
-- Frontend Development: Built user dashboard and monitoring interfaces
-- Database Design: Optimized database schema for real-time monitoring queries
-- Team Leadership: Led development team, conducted code reviews, guided junior members
-- Presentation: Created comprehensive PPT documentation and technical materials
+**Responsibilities:**
+- Designed full-stack architecture (backend, frontend, database, network)
+- Designed hospital network topology using GNS3 (routers, switches, ASAv firewall)
+- Implemented backend server logic and RESTful APIs
+- Built user dashboard with monitoring interfaces
+- Optimized database schema for real-time queries
+- Led development team with code reviews & technical guidance
+- Created comprehensive project documentation & presentations
 
-**Tech Stack**: Node.js, React, MySQL, GNS3, Flask, Docker
+**Tech Stack**: Node.js | React | PHP | Apache | MySQL | GNS3 | Bash
 
-**Role**: Team Lead
+**Role**: Team Lead & Full-Stack Developer
 
 ---
 
-### [Eoullim-Project](https://github.com/palantir1997/Eoullim-Project)
+### 🖥️ [Eoullim-Project](https://github.com/palantir1997/Eoullim-Project)
 **Enterprise Infrastructure & Monitoring System**
 
-Designed and built enterprise-grade infrastructure with advanced monitoring and centralized logging capabilities. Implemented secure server architecture with VPN and comprehensive observability.
+Designed and deployed enterprise-grade infrastructure with advanced monitoring and logging capabilities. Secure server architecture with comprehensive observability for security operations.
 
-**Key Contributions:**
-- Server Architecture: Designed and deployed secure server infrastructure
-- VPN Implementation: Set up secure VPN for enterprise access
-- Monitoring System: Built Grafana/Loki-based centralized monitoring with real-time dashboards
-- Error Handling & Logging: Implemented structured logging and error tracking system
-- Documentation: Created comprehensive GitHub Wiki and operational runbooks
-- Team Leadership: Provided technical mentoring, established maintenance procedures
+**Responsibilities:**
+- Designed and deployed secure server infrastructure
+- Configured VPN for enterprise access
+- Built Grafana-based centralized monitoring dashboards
+- Implemented structured logging and error tracking systems
+- Created operational documentation and runbooks
+- Mentored team members on infrastructure best practices
 
-**Tech Stack**: Linux, Grafana, Loki, VPN, Docker, Bash, MySQL
+**Tech Stack**: Linux | Grafana | Loki | MySQL | Bash
 
-**Role**: Team Lead
+**Role**: Team Lead & Infrastructure Engineer
 
 ---
 
-### [Flaghunters - CTF/War Game Platform](https://github.com/palantir1997/flaghunters)
+### 🚩 [Flaghunters - CTF War Game](https://github.com/palantir1997/flaghunters)
 **Competitive Cybersecurity Challenge Platform**
 
-Designed and developed a comprehensive CTF (Capture The Flag) / War Game platform with 100+ challenges. Personally designed and validated 51 out of 100 challenge problems, covering multiple security domains.
+Participated in CTF/War Game competition with 100+ challenges across multiple security domains.
 
-**Key Contributions:**
-- Platform Architecture: Designed end-to-end CTF platform architecture
-- Challenge Development: Created 51 challenging problems across security domains
-  - Covered topics: Web Security, Cryptography, Reverse Engineering, Binary Exploitation
-  - Conducted difficulty balancing and security validation
-- Challenge Validation: Tested all problems for functionality and security integrity
-- Documentation: Created detailed solution documentation and writeups
+**Achievement:**
+- **Personally solved 51 out of 100 challenges** during competition
+- Demonstrated deep security knowledge across:
+  - Web Security & Exploitation
+  - Cryptography & Cipher Analysis
+  - Reverse Engineering
+  - Binary Exploitation
 
-**Achievement**: Successfully solved all 51 challenges during competition, demonstrating comprehensive security knowledge
+**Domains Covered**: Web, Crypto, Forensics, Reverse Engineering, Binary, Misc
 
-**Tech Stack**: Python, Web Frameworks, Cryptography Tools, Docker
+**Tech Stack**: Python | Cryptography Tools | Security Analysis Tools
 
-**Role**: Team Lead & Challenge Designer
-
----
-
-### [YOLOv8 Fish Detection](https://github.com/ByteMaster-Y/YOLOv8-Fish-Detection-Project)
-Real-time object detection system for 7 fish species using YOLOv8. Achieved robust detection across varying lighting conditions through hyperparameter tuning and model optimization.
-
-**Tech Stack**: Python, PyTorch, Ultralytics YOLOv8, OpenCV, Roboflow
+**Role**: Individual Competitor
 
 ---
 
-### [KoBERT Movie Review Sentiment Analysis](https://github.com/ByteMaster-Y/KoBERT-Emotion-Analysis)
-Binary sentiment classification for Korean movie reviews using KoBERT fine-tuning on NSMC dataset (150K+ samples). Demonstrates NLP expertise and transfer learning capabilities.
+### 🐟 [YOLOv8 Fish Detection](https://github.com/ByteMaster-Y/YOLOv8-Fish-Detection-Project)
 
-**Tech Stack**: Python, PyTorch, Transformers, Hugging Face
+Real-time object detection system for 7 fish species. Achieved robust detection across varying lighting conditions through model optimization.
+
+**Tech Stack**: Python | PyTorch | YOLOv8 | OpenCV
 
 ---
 
-### [HandMath Solver - Capstone Design](https://github.com/ByteMaster-Y/HandMathSolver)
+### 📝 [KoBERT Movie Review Sentiment Analysis](https://github.com/ByteMaster-Y/KoBERT-Emotion-Analysis)
+
+Binary sentiment classification for Korean movie reviews using KoBERT fine-tuning on 150K+ samples. Demonstrates NLP and transfer learning capabilities.
+
+**Tech Stack**: Python | PyTorch | Transformers | Hugging Face
+
+---
+
+### 🎓 [HandMath Solver - Capstone Design](https://github.com/ByteMaster-Y/HandMathSolver)
 **Capstone Design Grand Prize Winner**
 
-Handwritten math equation recognition system using CNN. Built complete web application with real-time recognition and step-by-step solution generation.
+Handwritten math equation recognition system using CNN with complete web application.
 
-**Tech Stack**: Python, JavaScript, Flask, PyTorch, TensorFlow, Keras, OpenCV
-
----
-
-### [SafeAlert - Disaster Safety App](https://github.com/ByteMaster-Y/SafeAlert-Disaster-Safety-App)
-**Published in KAICT Conference Spring 2024 | Multiple Awards**
-
-Real-time disaster information and emergency response application with AI-driven analysis.
-
-**Tech Stack**: Python, BERT, GNN, GPT, Android
-
-**Awards**: Innovation Award, Best Project Award, Popularity Award, Incheon Gyeyang Mayor's Award
+**Tech Stack**: Python | JavaScript | Flask | PyTorch | TensorFlow | Keras | OpenCV
 
 ---
 
-### [Customer Grade Prediction](https://github.com/ByteMaster-Y/customer-grade-prediction)
-Integrated labeled and unlabeled data using pseudo-labeling and clustering approaches. Achieved 0.92 accuracy in customer grade prediction with semi-supervised learning techniques.
+### 🚨 [SafeAlert - Disaster Safety App](https://github.com/ByteMaster-Y/SafeAlert-Disaster-Safety-App)
+**Published in KAICT Conference Spring 2024**
 
-**Tech Stack**: Python, Scikit-learn, RandomForest, KMeans
+Real-time disaster information application with AI-driven emergency response analysis.
 
----
+**Tech Stack**: Python | BERT | GNN | GPT | Android
 
-## Certifications & Credentials
-
-**Security Certifications**
-- Information Security Technician (정보보안기사) - Pending June 2026
-- Information Processing Technician (정보처리기사) - September 2025
-- Prompt Engineering Level 2 - KAIT (Jun 2025)
-- Linux Master Level 2 - KAIT (Jan 2025)
-
-**Professional Certifications**
-- Advanced Data Analytics Semi-Professional (ADSP) - KDATA (Sep 2024)
-- SQL Developer (SQLD) - KDATA (Apr 2024)
-- Industrial Engineer Information Processing - HRDK (Jun 2024)
-- Microsoft Access Specialist (Office 2016) – 933/1000 (Jul 2024)
-- ITQ Excel A-Level – KPC (Dec 2023)
+**Awards**: Innovation Award, Best Project Award, Popularity Award, Incheon Mayor's Award
 
 ---
 
-## Research & Publications
+### 📊 [Customer Grade Prediction](https://github.com/ByteMaster-Y/customer-grade-prediction)
 
-**2024 KAICT Conference (May 18, 2024)**
-- Paper: "Smart Phone App Design for Disaster Safety (SafeAlert)"
-- Authors: Yeseul Yim, Ji-hyeon Lee, Hun-Jun Ko, Sun-Moon Cho
-- Focus: Deep Learning models (BERT, GNN, GPT) for real-time disaster text analysis and AI-powered shelter recommendations
+Semi-supervised learning model for customer grade prediction. Integrated labeled and unlabeled data using pseudo-labeling and clustering. Achieved 0.92 accuracy.
+
+**Tech Stack**: Python | Scikit-learn | RandomForest | KMeans
 
 ---
 
-## Contact
+## 🎖️ Certifications
+
+**In Progress / Upcoming**
+- Information Security Technician (정보보안기사 필기) — June 2026
+- Information Processing Technician (정보처리기사) — September 2025
+
+**Active Certifications**
+- Prompt Engineering Level 2 — KAIT (Jun 2025)
+- Linux Master Level 2 — KAIT (Jan 2025)
+- Advanced Data Analytics Semi-Professional (ADSP) — KDATA (Sep 2024)
+- SQL Developer (SQLD) — KDATA (Apr 2024)
+- Microsoft Access Specialist (Office 2016) — 933/1000 (Jul 2024)
+- ITQ Excel A-Level — KPC (Dec 2023)
+
+---
+
+## 📑 Research & Publications
+
+**2024 KAICT Conference | May 18, 2024**
+
+📄 **"Smart Phone App Design for Disaster Safety (SafeAlert)"**
+
+- Deep Learning models (BERT, GNN, GPT) for real-time disaster text analysis
+- AI-powered shelter recommendation system using GNN
+- Published in Korean Association of Intelligent Information Technology
+
+---
+
+## 🏆 Awards & Recognition
+
+- **AI Innovation Award** — Gyeonggi Women's University (Feb 2025)
+- **Capstone Design Grand Prize** — HandMath Solver (2024)
+- **Student Budget Proposal Award - Gold** — Gyeonggi Women's University (Dec 2024)
+- **Capstone Design Excellence Award** — Gyeonggi Women's University (Nov 2024)
+- **AI Application Contest Award** — Gyeonggi Women's University (Nov 2024)
+- **Gyeonggi Creative Economy Innovation Center Award** (Nov 2023)
+- **Software Convergence Creative Work Exhibition - Top Prize** (Nov 2023)
+- **Incheon Gyeyang District Mayor's Award** (Oct 2023)
+
+---
+
+## 🌐 Language Proficiency
+
+- **TOEIC**: 785/990 (Valid until Mar 2027)
+- **TEPS**: 255/600 (Valid until Aug 2027)
+
+---
+
+## 📧 Contact & Links
 
 - **Email**: palantir1997@gmail.com
 - **GitHub**: [github.com/palantir1997](https://github.com/palantir1997)
 - **Blog**: [palantirops.tistory.com](https://palantirops.tistory.com/)
+- **Phone**: 010-4000-5782
 
 ---
 
-⭐️ From [palantir1997](https://github.com/palantir1997)
+<div align="center">
+
+**Always learning. Always building secure systems.** 🔐
+
+Currently: Cybersecurity Bootcamp | Starting: Statistics & Data Science (Sep 2026)
+
+</div>
