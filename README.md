@@ -153,6 +153,25 @@ Participated in CTF/War Game competition with 100+ challenges across multiple se
 
 ---
 
+### 👗 [Dino-Style Fashion](https://github.com/palantir1997/dino-style-fashion)
+**AI-Powered Fashion Image Recommendation System**
+
+Fashion image similarity recommendation web service using DINO and CLIP models. Users upload fashion images and receive visually and semantically similar style recommendations through advanced deep learning embeddings.
+
+**Key Features:**
+- Image-to-Image Similarity Search: DINO model for visual feature extraction and ChromaDB for fast vector retrieval
+- Semantic Understanding: CLIP model for meaning-based fashion searches (e.g., "shirt-like items")
+- Image Captioning: BLIP model generates natural language descriptions for uploaded and recommended images
+- Full-Stack Implementation: Complete Flask web application with MongoDB backend for metadata management
+
+**Tech Stack**: Python | Flask | DINOv2 (Meta AI) | CLIP (OpenAI) | BLIP (Salesforce) | ChromaDB | MongoDB | HTML/CSS
+
+**Dataset**: Kaggle Fashion Product Images
+
+**Role**: Individual Developer
+
+---
+
 ### 🐟 [YOLOv8 Fish Detection](https://github.com/ByteMaster-Y/YOLOv8-Fish-Detection-Project)
 
 Real-time object detection system for 7 fish species. Achieved robust detection across varying lighting conditions through model optimization.
