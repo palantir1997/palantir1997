@@ -12,14 +12,16 @@ Completed a comprehensive Cybersecurity Bootcamp with focus on security architec
 
 ## 📚 Education
 
-**B.S. in Software Convergence** | Graduated February 2026
-* **GPA:** 4.25 / 4.5
+**B.S. in Statistics and Data Science (Transfer Entry to Junior Year)** | September 2026 – Present
 
 **Cybersecurity Bootcamp (Guardian Program)** | March 2026 – August 2026
 * **Status:** Completed
 * **Specialized Track:** Security Infrastructure, Network Architecture, Penetration Testing, Malware Analysis
 
-**B.S. in Statistics and Data Science (Transfer Entry to Junior Year)** | September 2026 – Present
+**B.S. in Software Convergence** | Graduated February 2026
+* **GPA:** 4.25 / 4.5
+
+
 
 ---
 
