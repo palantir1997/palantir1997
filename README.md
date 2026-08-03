@@ -61,7 +61,7 @@ Completed a comprehensive Cybersecurity Bootcamp with focus on security architec
 |----------|-------------------|-------------|-------|
 | **Programming** | Python, Java, JavaScript, C++, Bash | ⭐⭐⭐ | Primary: Python & JavaScript |
 | **Security & IDS/IPS** | Kali Linux, Splunk, Wireshark, Burp Suite, Snort, Suricata | ⭐⭐ | Hands-on penetration testing & intrusion detection |
-| **Network** | GNS3, Cisco ASAv, Network Topology Design | ⭐⭐ | Network architecture design |
+| **Network** | GNS3, Cisco ASAv, Network Topology Design | ⭐ | Network architecture design |
 | **Monitoring & Logging** | Grafana, Zabbix, Nagios, GoAccess, Graylog, Log Analysis | ⭐⭐ | Dashboard, alerting setup & log aggregation |
 | **Backend** | Node.js, Flask, Spring | ⭐⭐⭐ | Full API development |
 | **Frontend** | React, JavaScript, HTML/CSS | ⭐⭐ | UI/Dashboard development |
