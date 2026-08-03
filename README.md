@@ -59,17 +59,17 @@ GPA: 4.25/4.5
 | Category | Tools & Technologies | Proficiency | Notes |
 |----------|-------------------|-------------|-------|
 | **Programming** | Python, Java, JavaScript, C++, Bash | ⭐⭐⭐ | Primary: Python & JavaScript |
-| **Security** | Kali Linux, Splunk, Wireshark, Burp Suite | ⭐⭐ | Hands-on penetration testing |
+| **Security & IDS/IPS** | Kali Linux, Splunk, Wireshark, Burp Suite, Snort, Suricata | ⭐⭐ | Hands-on penetration testing & intrusion detection |
 | **Network** | GNS3, Cisco ASAv, Network Topology Design | ⭐⭐ | Network architecture design |
-| **Monitoring** | Grafana, Zabbix, Log Analysis | ⭐⭐ | Dashboard & alerting setup |
+| **Monitoring & Logging** | Grafana, Zabbix, Nagios, GoAccess, Graylog, Log Analysis | ⭐⭐ | Dashboard, alerting setup & log aggregation |
 | **Backend** | Node.js, Flask, Spring | ⭐⭐⭐ | Full API development |
-| **Frontend** | JavaScript, HTML/CSS | ⭐⭐ | UI/Dashboard development |
+| **Frontend** | React, JavaScript, HTML/CSS | ⭐⭐ | UI/Dashboard development |
 | **Database** | MySQL, NoSQL, Schema Design | ⭐⭐ | Query optimization |
-| **DevOps** | Linux (Ubuntu/Rocky), Bash Scripting | ⭐⭐⭐ | Server management & automation |
+| **DevOps & Scripting** | Linux (Ubuntu/Rocky), Bash Scripting, Shell Scripts | ⭐⭐⭐ | Server management, automation & infrastructure as code |
 | **Web Security** | PHP, Apache, OWASP Principles | ⭐⭐ | Web application hardening |
+| **Security Tools** | OSSENC, OpenSSL, Cryptographic Tools | ⭐⭐ | Encryption & security protocol implementation |
 | **ML Frameworks** | PyTorch, TensorFlow, Keras, Hugging Face | ⭐⭐ | Model fine-tuning & inference |
-| **Tools** | Git, GNS3, Wireshark, OpenCV | ⭐⭐ | Development & analysis |
-
+| **Development Tools** | Git, GNS3, Wireshark, OpenCV, PMS | ⭐⭐ | Version control, analysis & development |
 ---
 
 ## 📌 Featured Projects
