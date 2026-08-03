@@ -62,8 +62,8 @@ GPA: 4.25/4.5
 | **Security** | Kali Linux, Splunk, Wireshark, Burp Suite | ⭐⭐ | Hands-on penetration testing |
 | **Network** | GNS3, Cisco ASAv, Network Topology Design | ⭐⭐ | Network architecture design |
 | **Monitoring** | Grafana, Zabbix, Log Analysis | ⭐⭐ | Dashboard & alerting setup |
-| **Backend** | Node.js, Flask, RESTful APIs, Spring | ⭐⭐⭐ | Full API development |
-| **Frontend** | React, JavaScript, HTML/CSS | ⭐⭐ | UI/Dashboard development |
+| **Backend** | Node.js, Flask, Spring | ⭐⭐⭐ | Full API development |
+| **Frontend** | JavaScript, HTML/CSS | ⭐⭐ | UI/Dashboard development |
 | **Database** | MySQL, NoSQL, Schema Design | ⭐⭐ | Query optimization |
 | **DevOps** | Linux (Ubuntu/Rocky), Bash Scripting | ⭐⭐⭐ | Server management & automation |
 | **Web Security** | PHP, Apache, OWASP Principles | ⭐⭐ | Web application hardening |
@@ -87,7 +87,7 @@ Comprehensive security enhancement for cinema web system. Designed and implement
 - Configured ModSecurity WAF for web application protection
 - Created detailed security assessment reports
 
-**Tech Stack**: Python | Kali Linux | Splunk | Suricata | ModSecurity | Wireshark
+**Tech Stack**: Python | Kali Linux | Splunk | Suricata | ModSecurity |
 
 **Role**: Team Lead
 
@@ -107,7 +107,7 @@ Full-stack development of security monitoring platform for hospital network envi
 - Led development team with code reviews & technical guidance
 - Created comprehensive project documentation & presentations
 
-**Tech Stack**: Node.js | React | PHP | Apache | MySQL | GNS3 | Bash
+**Tech Stack**: PHP | Apache | MySQL | GNS3 | Bash
 
 **Role**: Team Lead & Full-Stack Developer
 
@@ -126,7 +126,7 @@ Designed and deployed enterprise-grade infrastructure with advanced monitoring a
 - Created operational documentation and runbooks
 - Mentored team members on infrastructure best practices
 
-**Tech Stack**: Linux | Grafana | Loki | MySQL | Bash
+**Tech Stack**: Linux | Grafana | Loki | MySQL | Node JS | PHP
 
 **Role**: Team Lead & Infrastructure Engineer
 
