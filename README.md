@@ -101,7 +101,6 @@ Full-stack development of security monitoring platform for hospital network envi
 **Responsibilities:**
 - Designed full-stack architecture (backend, frontend, database, network)
 - Designed hospital network topology using GNS3 (routers, switches, ASAv firewall)
-- Implemented backend server logic and RESTful APIs
 - Built user dashboard with monitoring interfaces
 - Optimized database schema for real-time queries
 - Led development team with code reviews & technical guidance
