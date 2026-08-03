@@ -8,8 +8,6 @@ Completed a comprehensive Cybersecurity Bootcamp with focus on security architec
 
 ---
 
-📚 Education
-
 ## 📚 Education
 
 **B.S. in Statistics and Data Science (Transfer Entry to Junior Year)** | September 2026 – Present
