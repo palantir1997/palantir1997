@@ -10,16 +10,19 @@ Completed a comprehensive Cybersecurity Bootcamp with focus on security architec
 
 ## 📚 Education
 
-B.S. in Statistics and Data Science | September 2026 - Present (Junior Year)
-- New Degree Program (Transfer Entry to 3rd Year)
-- Institution: Hanyang Women's University
-- Specialization Areas:
-  - Statistical Analysis & Data Science Fundamentals
-  - Advanced Analytics & Machine Learning
-  - Data-Driven Security Intelligence
-  - Threat Detection & Pattern Recognition in Security Data
-- Integration Focus: Combining cybersecurity expertise with data science 
-  for advanced threat analysis and security intelligence
+Cybersecurity Bootcamp (Guardian Program) | March - August 2026
+
+Focus: Security Infrastructure, Network Architecture, Penetration Testing, Malware Analysis
+Completed Core Security Curriculum
+
+B.S. in Software Convergence | Graduated February 2026
+
+Emphasis: AI/ML and System Design
+
+Upcoming (September 2026)
+
+Statistics and Data Science Courses (Junior Year)
+Advanced security and data analysis specialization
 
 ---
 
