@@ -4,7 +4,7 @@
 
 Passionate about building secure systems through hands-on cybersecurity and infrastructure engineering.
 
-Currently completing a comprehensive Cybersecurity Bootcamp with focus on security architecture, penetration testing, and infrastructure management. Bringing together security expertise and full-stack development skills to design and implement secure systems. Strong foundation in both offensive and defensive security practices, with proven ability to lead technical teams and deliver complex projects.
+Completed a comprehensive Cybersecurity Bootcamp with focus on security architecture, penetration testing, and infrastructure management. Bringing together security expertise and full-stack development skills to design and implement secure systems. Strong foundation in both offensive and defensive security practices, with proven ability to lead technical teams and deliver complex projects.
 
 ---
 
