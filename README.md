@@ -10,17 +10,16 @@ I'm an AI Security Engineer specializing in cybersecurity and infrastructure man
 
 ## Education
 
+**Upcoming (September 2026)**
+- Statistics and Data Science Courses (Junior Year)
+- Advanced security and data analysis specialization
+
 **Cybersecurity Bootcamp (Guardian Program) | March - August 2026**
 - Focus: Security Infrastructure, Network Architecture, Penetration Testing, Malware Analysis
 - Completed Core Security Curriculum
 
 **B.S. in Software Convergence | Graduated February 2026**
-- Emphasis: AI/ML and System Design
-
-**Upcoming (September 2026)**
-- Statistics and Data Science Courses (Junior Year)
-- Advanced security and data analysis specialization
-
+- Emphasis: AI/ML
 ---
 
 ## Research Interests
