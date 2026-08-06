@@ -248,7 +248,6 @@ Semi-supervised learning model for customer grade prediction. Integrated labeled
 
 ## 📧 Contact & Links
 
-- **Email**: palantir1997@gmail.com
 - **GitHub**: [github.com/palantir1997](https://github.com/palantir1997)
 - **Blog**: [palantirops.tistory.com](https://palantirops.tistory.com/)
 
